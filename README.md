@@ -2,6 +2,6 @@
 
 React, Redux, redux-thunk.
 
-![image](https://github.com/kamalov-eldar/random-quotes/blob/master/src/assets/random-quotes.gif)
+![image](https://github.com/hyper-richi/random-quotes/blob/master/src/assets/random-quotes.gif)
 
-готовый сайт -> https://kamalov-eldar.github.io/random-quotes
+готовый сайт -> https://hyper-richi.github.io/random-quotes
